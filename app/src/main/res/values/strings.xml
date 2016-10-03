@@ -1,22 +1,13 @@
 <resources>
 
     <string name="app_name">DroidLibX</string>
-    <string name="permission_info">Permission Access Request</string>
-    <string name="permission_info_note">
-        <![CDATA[
-        <p><b>Note:</b> If you had previously Denied the permission after checking the <b>Never ask again</b> option. Then please go to <b>Settings > Apps > %1$s > Permissions</b> &amp; enable it from there.</p>
-        ]]>
-	</string>
+
     <string name="loc_media_permission_info">
         <![CDATA[
         <p><b>%1$s</b> needs access to your <b>Location &amp; Media</b> in order to run the app features properly. Please provide the access by clicking on <b>Allow</b> button after Proceeding.</p>
         ]]>
     </string>
 
-    <string name="error">Error</string>
-    <string name="cancel">Cancel</string>
-    <string name="proceed">Proceed</string>
     <string name="title_activity_permission">PermissionActivity</string>
-    <string name="title_activity_main2">Main2Activity</string>
 
 </resources>

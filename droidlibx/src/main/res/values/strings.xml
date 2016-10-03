@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DroidLibX</string>
+
+    <string name="permission_info">Permission Access Request</string>
+    <string name="permission_info_note">
+        <![CDATA[
+        <p><b>Note:</b> If you had previously Denied the permission after checking the <b>Never ask again</b> option. Then please go to <b>Settings > Apps > %1$s > Permissions</b> &amp; enable it from there.</p>
+        ]]>
+	</string>
+
+    <string name="error">Error</string>
+    <string name="cancel">Cancel</string>
+    <string name="proceed">Proceed</string>
+
+</resources>

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.techie.droidlibx.demos;
+package com.techie.droidlibxdemos.demos;
 
 import android.Manifest;
 import android.os.Bundle;
@@ -26,7 +26,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-import com.techie.droidlibx.R;
+import com.techie.droidlibxdemos.R;
 import com.techie.droidlibx.permission.PermissionRequestor;
 import com.techie.droidlibx.utils.AppXUtils;
 

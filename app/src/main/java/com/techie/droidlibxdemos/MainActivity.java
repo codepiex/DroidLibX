@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.techie.droidlibx;
+package com.techie.droidlibxdemos;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.techie.droidlibx.demos.PermissionActivity;
+import com.techie.droidlibxdemos.demos.PermissionActivity;
 
 public class MainActivity extends AppCompatActivity {
 

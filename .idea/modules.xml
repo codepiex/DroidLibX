@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DroidLibX.iml" filepath="$PROJECT_DIR$/DroidLibX.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidlibx/droidlibx.iml" filepath="$PROJECT_DIR$/droidlibx/droidlibx.iml" />
     </modules>
   </component>
 </project>
