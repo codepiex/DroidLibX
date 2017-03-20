@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.techie.droidlibx.permission;
+package com.codepiex.droidlibx.permission;
 
 import android.app.Activity;
 import android.content.Context;
@@ -28,9 +28,9 @@ import android.text.Html;
 import android.util.Log;
 
 
-import com.techie.droidlibx.R;
-import com.techie.droidlibx.utils.AlertXUtils;
-import com.techie.droidlibx.utils.AppXUtils;
+import com.codepiex.droidlibx.R;
+import com.codepiex.droidlibx.utils.AlertXUtils;
+import com.codepiex.droidlibx.utils.AppXUtils;
 
 import java.util.ArrayList;
 

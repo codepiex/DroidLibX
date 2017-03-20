@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.techie.droidlibx.utils;
+package com.codepiex.droidlibx.utils;
 
 import android.app.ActivityManager;
 import android.content.ComponentName;

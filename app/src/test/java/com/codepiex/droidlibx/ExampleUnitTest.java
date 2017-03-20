@@ -1,4 +1,4 @@
-package com.techie.droidlibx;
+package com.codepiex.droidlibx;
 
 import org.junit.Test;
 

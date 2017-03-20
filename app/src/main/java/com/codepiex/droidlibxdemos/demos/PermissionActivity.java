@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.techie.droidlibxdemos.demos;
+package com.codepiex.droidlibxdemos.demos;
 
 import android.Manifest;
 import android.os.Bundle;
@@ -26,9 +26,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-import com.techie.droidlibxdemos.R;
-import com.techie.droidlibx.permission.PermissionRequestor;
-import com.techie.droidlibx.utils.AppXUtils;
+import com.codepiex.droidlibxdemos.R;
+import com.codepiex.droidlibx.permission.PermissionRequestor;
+import com.codepiex.droidlibx.utils.AppXUtils;
 
 public class PermissionActivity extends AppCompatActivity implements PermissionRequestor.PermissionRequestorListener,
         ActivityCompat.OnRequestPermissionsResultCallback{

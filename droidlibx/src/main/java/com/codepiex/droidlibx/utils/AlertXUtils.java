@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.techie.droidlibx.utils;
+package com.codepiex.droidlibx.utils;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -24,7 +24,7 @@ import android.content.res.Resources;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.techie.droidlibx.R;
+import com.codepiex.droidlibx.R;
 
 public class AlertXUtils {
 
