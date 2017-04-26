@@ -7,7 +7,7 @@ DroidLibX
 
 This project is intended for providing easy to use frameworks which makes the integration of Android's New/Existing features very fast with less code. 
 
-### Features API's
+### Featured API's
 
  - **PermissionRequestor:**  This class provides simple methods to request permission which require user approval before app use them. Just key-in the required arguments for the method including a listener which will respond based on user decision. **Note-** You must called onRequestPermissionsResult method of the PermissionRequestor instance from the Activity (in which you are using it) onRequestPermissionsResult callback in-order to receive listener callback.    
 
