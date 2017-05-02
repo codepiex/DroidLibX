@@ -9,7 +9,28 @@ This project is intended for providing easy to use frameworks which makes the in
 
 ### Featured API's
 
- - **PermissionRequestor:**  This class provides simple methods to request permission which require user approval before app use them. Just key-in the required arguments for the method including a listener which will respond based on user decision. **Note-** You must called onRequestPermissionsResult method of the PermissionRequestor instance from the Activity (in which you are using it) onRequestPermissionsResult callback in-order to receive listener callback.    
+ - **PermissionRequestor:**  This class provides simple methods to request permission which require user approval before app use them. Just key-in the required arguments for the method including a listener which will respond based on user decision. **Note-** You must called onRequestPermissionsResult method of the PermissionRequestor instance from the Activity (in which you are using it) onRequestPermissionsResult callback in-order to receive listener callback. 
+ 
+ ### Download
+
+[Latest .aar file](https://repository.sonatype.org/service/local/artifact/maven/redirect?r=central-proxy&g=com.codepiex.droidlibx&a=droidlibx&p=aar&v=LATEST)
+
+Maven:
+
+```
+<dependency>
+  <groupId>com.codepiex.droidlibx</groupId>
+  <artifactId>droidlibx</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+```
+
+Gradle:
+
+```
+compile 'com.codepiex.droidlibx:droidlibx:1.0.0'
+```
 
 ### License
 
