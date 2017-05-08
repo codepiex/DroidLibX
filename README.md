@@ -5,7 +5,7 @@ DroidLibX
 [ ![Download](https://api.bintray.com/packages/eeshan-jamal/DroidMaven/droid-libx/images/download.svg) ](https://bintray.com/eeshan-jamal/DroidMaven/droid-libx/_latestVersion)
 
 
-This project is intended for providing easy to use frameworks which makes the integration of Android's New/Existing features very fast with less code. 
+This project is intended for providing easy to use frameworks which makes the integration of Android's New/Existing features very fast with less lines of code. 
 
 ### Featured API's
 
