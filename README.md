@@ -9,7 +9,10 @@ This project is intended for providing easy to use frameworks which makes the in
 
 ### Featured API's
 
- - **PermissionRequestor:**  This class provides simple methods to request permission which require user approval before app use them. Just key-in the required arguments for the method including a listener which will respond based on user decision. **Note-** You must called onRequestPermissionsResult method of the PermissionRequestor instance from the Activity (in which you are using it) by implementing the interface ActivityCompat.OnRequestPermissionsResultCallback. 
+  - **PermissionRequestor:**  This class provides simple methods to request permission which require user approval before app use them. Just key-in the required arguments for the method including a listener which will respond based on user decision. **Note-** Few things to take care of while using this api:
+ 
+	 -  You must override the `onRequestPermissionsResult` method in your activity & called the `onRequestPermissionsResult` method of PermissionRequestor instance from inside it.
+	 - Make sure all the requested Permissions are also declared in Manifest Uses permission.   
  
  ### Download
 
